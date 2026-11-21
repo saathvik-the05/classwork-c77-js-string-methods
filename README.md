@@ -1,7 +1,7 @@
-# JavaScript String Methods Demo
+# JavaScript String Methods Demo (C77)
 
 A short exercise demonstrating JavaScript string methods (`concat`, `toLowerCase`, and others). Output appears in the browser console.
 
 **Built with:** HTML, JavaScript
 
-> Built in 2021 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Classwork from a school coding course (2021). I wrote most of the HTML and JavaScript myself.
