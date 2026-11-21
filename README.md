@@ -4,4 +4,4 @@ A short exercise demonstrating JavaScript string methods (`concat`, `toLowerCase
 
 **Built with:** HTML, JavaScript
 
-> Classwork from the WhiteHat Jr online coding course (2021). I wrote most of the HTML and JavaScript myself.
+> Classwork from a third-party online coding course (2021). I wrote most of the HTML and JavaScript myself.
